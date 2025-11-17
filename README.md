@@ -63,3 +63,5 @@ session.gc_maxlifetime = 14000
 Essas configurações são típicas para desenvolvimento. Em produção,
 desligue `display_errors` para evitar exposição de informações
 sensíveis.
+
+Fonte: Orientação a Objetos - 4ª Edição (Pablo Dall’Oglio) 
